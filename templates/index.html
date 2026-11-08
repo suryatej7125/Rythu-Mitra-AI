@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Rythu Mitra AI | Your Farming Companion</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <div class="logo">
+            <span class="logo-icon">🌱</span>
+            <span>Rythu Mitra <strong>AI</strong></span>
+        </div>
+
+        <div class="language">
+            తెలుగు • English
+        </div>
+    </header>
+
+
+    <main class="hero">
+
+        <div class="badge">
+            🌾 YOUR INTELLIGENT FARMING COMPANION
+        </div>
+
+        <h1>
+            Your Farm.<br>
+            Your Language.<br>
+            <span>Your AI Assistant.</span>
+        </h1>
+
+        <p class="description">
+            Farming questions deserve simple answers.
+            Speak naturally in Telugu and let Rythu Mitra AI
+            help you understand your farming problems.
+        </p>
+
+
+        <section class="voice-card">
+
+            <div class="voice-icon">
+                🎙️
+            </div>
+
+            <h2>Talk to Rythu Mitra</h2>
+
+            <p>
+                Press the microphone and ask your farming question
+                in Telugu.
+            </p>
+
+            <button id="recordBtn" class="record-btn">
+                🎤 Start Speaking
+            </button>
+            <div class="text-question">
+
+    <p>Or type your farming question</p>
+
+    <textarea
+        id="textQuestion"
+        placeholder="మీ వ్యవసాయ ప్రశ్నను ఇక్కడ టైప్ చేయండి..."
+        rows="3"
+    ></textarea>
+
+    <button id="askTextBtn" class="record-btn">
+        Ask Rythu Mitra →
+    </button>
+
+</div>
+
+            <p id="status" class="status">
+                Ready to listen to you
+            </p>
+
+        </section>
+
+
+        <section id="result" class="result-card hidden">
+
+            <div class="result-section">
+                <h3>🗣️ Your Question</h3>
+                <p id="question"></p>
+            </div>
+
+            <div class="divider"></div>
+            <div class="result-section">
+                <h3>📚 Information Reference</h3>
+                <p id="source"></p>
+            </div>
+
+            <div class="result-section">
+                <h3>🌱 Rythu Mitra's Answer</h3>
+                <p id="answer"></p>
+            </div>
+            <div class="divider"></div>
+
+            <div class="result-section">
+                <h3>📚 Information Reference</h3>
+                <p id="source"></p>
+            </div>
+
+            <audio id="responseAudio" controls></audio>
+
+        </section>
+
+
+        <div class="trust-note">
+            🌿 Helpful farming guidance in your language.
+            For crop diagnosis and treatment decisions,
+            consult a qualified agricultural expert.
+        </div>
+
+    </main>
+
+
+    <footer>
+        <p>Made with ❤️ for Indian Farmers</p>
+        <p>Rythu Mitra AI © 2026</p>
+    </footer>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>

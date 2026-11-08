@@ -1,0 +1,4 @@
+Flask
+requests
+python-dotenv
+gnani-vachana==0.9.0

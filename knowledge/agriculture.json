@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cotton_yellow_leaves",
+    "crop": "cotton",
+    "keywords": [
+      "పత్తి",
+      "ఆకులు",
+      "పసుపు",
+      "yellow leaves",
+      "cotton"
+    ],
+    "answer_te": "పత్తి ఆకులు పసుపు రంగులోకి మారడానికి నీటి సమస్యలు, పోషక లోపాలు లేదా పురుగులు వంటి అనేక కారణాలు ఉండవచ్చు. ఆడియో ఆధారంగా ఖచ్చితమైన కారణం చెప్పడం సాధ్యం కాదు. పొలంలో నీరు నిలిచిందా, ఆకుల కింద పురుగులు ఉన్నాయా, పాత ఆకులా లేదా కొత్త ఆకులా పసుపు రంగులోకి మారుతున్నాయో గమనించండి. అవసరమైతే సమీప వ్యవసాయ అధికారిని సంప్రదించండి.",
+    "answer_en": "Cotton leaves can turn yellow for several reasons, including water problems, nutrient deficiencies or pests. Audio alone cannot identify the exact cause. Check for standing water, insects under the leaves, and whether older or newer leaves are affected. Consult a local agricultural officer if needed.",
+    "source": "General preliminary guidance; diagnosis requires field inspection."
+  },
+  {
+    "id": "paddy_stem_borer",
+    "crop": "paddy",
+    "keywords": [
+      "వరి",
+      "పొలం",
+      "కాండం",
+      "తొలిచే పురుగు",
+      "stem borer",
+      "paddy"
+    ],
+    "answer_te": "వరి పంటలో కాండం తొలిచే పురుగు సమస్య ఉందని అనుమానం ఉంటే, మొక్కల కాండాలను మరియు దెబ్బతిన్న ప్రాంతాలను జాగ్రత్తగా పరిశీలించండి. కొన్ని లక్షణాలు ఇతర సమస్యల వల్ల కూడా రావచ్చు. ఖచ్చితమైన నిర్ధారణ కోసం మొక్కల ఫోటోలు తీసి సమీప వ్యవసాయ అధికారి లేదా కృషి విజ్ఞాన కేంద్రాన్ని సంప్రదించండి. నిర్ధారణ లేకుండా పురుగుమందులు వాడకండి.",
+    "answer_en": "If you suspect stem borer in paddy, carefully inspect the stems and affected areas. Similar symptoms may have other causes. Take photographs and consult a local agricultural officer or Krishi Vigyan Kendra for confirmation. Do not apply pesticides without identifying the problem.",
+    "source": "PJTAU field visit report, Siddipet, September 2026."
+  },
+  {
+    "id": "chilli_leaf_curl",
+    "crop": "chilli",
+    "keywords": [
+      "మిరప",
+      "మిర్చి",
+      "ఆకులు",
+      "ముడుచు",
+      "ముడుచుకుంటున్నాయి",
+      "leaf curl",
+      "chilli"
+    ],
+    "answer_te": "మిరప మొక్కల ఆకులు పైకి లేదా లోపలికి ముడుచుకుంటే దానికి అనేక కారణాలు ఉండవచ్చు. ఆకుల కింద త్రిప్స్ లేదా మైట్స్ వంటి పురుగులు ఉన్నాయా పరిశీలించండి. మొక్కల పెరుగుదల, నీటి పరిస్థితి కూడా గమనించండి. ఆకుల ఫోటోలు తీసి వ్యవసాయ అధికారికి చూపించండి. కారణం నిర్ధారించకుండా మందులు వాడకండి.",
+    "answer_en": "If chilli leaves curl upward or inward, several causes are possible. Check the undersides of leaves for pests such as thrips or mites, and observe plant growth and water conditions. Take photographs and show them to an agricultural officer. Do not apply chemicals without confirming the cause.",
+    "source": "PJTAU field visit report, Gadwal, October 2026."
+  }
+]
